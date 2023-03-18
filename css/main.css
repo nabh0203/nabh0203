@@ -1,0 +1,28 @@
+body {
+    height: 3000px;
+    background-color: rgb(255, 255, 255);
+}
+button {
+    width: 80px;
+    height: 80px;
+    background-color: hwb(0 66% 34% / 0);
+    border: none;
+    color: #000000;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 10px;
+    cursor: pointer; 
+}
+#top-scroll {
+    position: fixed; 
+    bottom: 35px; 
+    right: 35px; 
+    margin: 0.5em; 
+    line-height: 2; 
+}
+#top-scroll:hover { color: #ffe600; cursor: pointer; }
