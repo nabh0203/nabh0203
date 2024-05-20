@@ -8,7 +8,7 @@
 <br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flatsquare&logo=Visual Studio Code&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flatsquare&logo=Unity&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/></a><br>
 <!--
 **nabh0203/nabh0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
