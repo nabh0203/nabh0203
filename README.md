@@ -6,7 +6,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnabh0203%2Fhit-counter&count_bg=%23000000&title_bg=%23003ECF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-<img src="https://img.shields.io/badge/Riot Games-D32936?style=flatsquare&logo=Riot Games&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flatsquare&logo=Visual Studio Code&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flatsquare&logo=Unity&logoColor=white"/></a><br>
 
