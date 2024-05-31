@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabh0203
 - 👀 I’m interested in programming and VR
-- 🌱 I’m currently learning html/css/javascript/unity
+- 🌱 I’m currently learning C#/html/css/javascript/unity
 - 👟 I enjoy doing fitness during my leisure time
 - 📫 The way to connect to me : nabh02@naver.com
 
